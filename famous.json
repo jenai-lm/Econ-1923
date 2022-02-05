@@ -18,5 +18,14 @@
         "height_inches" : 66,
         "author" : false,
         "tv show" : "The Office"
-    }
-}    
+    } 
+    "emma" : {
+        "full name" : "Emma Charlotte Duerre Watson",
+        "place of birth" : "Paris, France", 
+        "age" : 31, 
+        "known for" : "Harry Potter Series", 
+        "university graduate" : true, 
+        "most recent film" : "Little Women",
+        "current tv show" : null
+    } 
+}
